@@ -1,12 +1,12 @@
 {
-"login": "ddgapi-test3",
-"password": "ddgapi-test3",
-"project": "DDG+Bornholm",
-"vLayers": "GeoDanmark+Orthophoto+2016",
+"login": "",
+"password": "",
+"project": "",
+"vLayers": "",
 "hLayers": "",
-"maximize": "DDG2016+Bornholms+Regionskommune",
+"maximize": "",
 "dssLayers": "",
-"assLayers": "GeoDanmark+Orthophoto+2016",
+"assLayers": "",
 "ssTrigger": ""
 }
 

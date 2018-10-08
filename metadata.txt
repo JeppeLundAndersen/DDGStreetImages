@@ -11,7 +11,7 @@ name=DDG Street Images
 qgisMinimumVersion=3.0
 description=The plugin open DDG street images in the browser
 version=1.0
-author=COWI A/S
+author=COWI AS
 email=jxa@cowi.dk
 
 about=COWI, Denmark's Digital Street Images (DDG) - CPV plugin

@@ -1,0 +1,43 @@
+# This file contains metadata for your plugin. Since 
+# version 2.0 of QGIS this is the proper way to supply 
+# information about a plugin. The old method of 
+# embedding metadata in __init__.py will 
+# is no longer supported since version 2.0.
+
+# This file should be included when you package your plugin.# Mandatory items:
+
+[general]
+name=DDG Street Images
+qgisMinimumVersion=3.0
+description=The plugin open DDG street images in the browser
+version=1.0
+author=COWI A/S
+email=jxa@cowi.dk
+
+about=COWI, Denmark's Digital Street Images (DDG) - CPV plugin
+      This plugin allows you to open COWI's street images by clicking on the map.
+      CPV Plugin requires a subscription to DDG and login and password assigned by COWI. The CPV Plugin allows clicking in the QGIS project, after which the CPV opens the nearest street image in the user's default browser.
+      CPV includes panning functionality, shortcuts to quickly search street images, to view next / previous image in driving directions, turn on and off background map layers, address search, annotation / redlining on images, plot in pdf and jpg format, image quality adjustment, measure lengths, heights and areas etc. .. CPV functionality can be expanded to view oblique photos.
+      Contact COWI for subscription. The CPV plugin supports QGIS version 3 and supports the following QGIS project projections (SRID): 4326, 3857, 25832, 3009. The CPV plugin is configured by user in a config.txt file.
+
+tracker=https://github.com/JeppeLundAndersen/DdgGadefoto/issues
+repository=https://github.com/JeppeLundAndersen/DdgGadefoto
+# End of mandatory metadata
+
+# Recommended items:
+
+# Uncomment the following line and add your changelog:
+# changelog=
+
+# Tags are comma separated with spaces allowed
+tags=Street view,Street,view,DDG,Street images,Panoramic,CPV,COV,COWI
+
+homepage=https://github.com/JeppeLundAndersen/DdgGadefoto
+category=Plugins
+icon=icon.png
+# experimental flag
+experimental=False
+
+# deprecated flag (applies to the whole plugin, not just a single version)
+deprecated=False
+

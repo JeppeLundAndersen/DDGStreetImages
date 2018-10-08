@@ -20,8 +20,8 @@ about=COWI, Denmark's Digital Street Images (DDG) - CPV plugin
       CPV includes panning functionality, shortcuts to quickly search street images, to view next / previous image in driving directions, turn on and off background map layers, address search, annotation / redlining on images, plot in pdf and jpg format, image quality adjustment, measure lengths, heights and areas etc. .. CPV functionality can be expanded to view oblique photos.
       Contact COWI for subscription. The CPV plugin supports QGIS version 3 and supports the following QGIS project projections (SRID): 4326, 3857, 25832, 3009. The CPV plugin is configured by user in a config.txt file.
 
-tracker=https://github.com/JeppeLundAndersen/DdgGadefoto/issues
-repository=https://github.com/JeppeLundAndersen/DdgGadefoto
+tracker=https://github.com/JeppeLundAndersen/DDGStreetImages/issues
+repository=https://github.com/JeppeLundAndersen/DDGStreetImages
 # End of mandatory metadata
 
 # Recommended items:
@@ -32,7 +32,7 @@ repository=https://github.com/JeppeLundAndersen/DdgGadefoto
 # Tags are comma separated with spaces allowed
 tags=Street view,Street,view,DDG,Street images,Panoramic,CPV,COV,COWI
 
-homepage=https://github.com/JeppeLundAndersen/DdgGadefoto
+homepage=https://github.com/JeppeLundAndersen/DDGStreetImages
 category=Plugins
 icon=icon.png
 # experimental flag
